@@ -211,4 +211,4 @@ The saved `.keras` model can be:
 
 - 📓 **Google Colab Notebook:** [(https://colab.research.google.com/drive/11wDejO6UUcPz7ZgGoplcQfeDvseEFVnS?usp=sharing)]
 - 📁 **Google Drive Dataset:** [(https://drive.google.com/drive/folders/1TRQJ9ZjW8XNAK6L1VdbcqLDDwcdhuwcO?usp=sharing)]
-- - 🧠 **Saved Model:** [(https://drive.google.com/file/d/19L1TODQCLFHRFOioXjQewesOzPX2qbG1/view?usp=drive_link)]
+- 🧠 **Saved Model:** [(https://drive.google.com/file/d/19L1TODQCLFHRFOioXjQewesOzPX2qbG1/view?usp=drive_link)]
